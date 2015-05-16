@@ -4,3 +4,9 @@ When you initialize a repository you make a new area where git will save version
 
 **********
 
+How is the staging area different from the working directory and the repository?  What value do you think it offers?
+
+The staging area is like a scratchpad where you put things before they become set in stone.  It's a temporary bag that holds things until you've chosen a specific place for them.  Having it enables much more control over what you're doing, allows you to tweak what you're going to commit and gives you the chance to make choices at a finer level than just directly saving everything.
+
+**********
+
