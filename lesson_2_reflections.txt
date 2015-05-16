@@ -1,0 +1,6 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+When you initialize a repository you make a new area where git will save versions of your files.  You need to do it in order to make something new.
+
+**********
+

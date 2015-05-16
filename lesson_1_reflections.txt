@@ -1,0 +1,97 @@
+How did viewing a diff 
+between two versions of a file 
+help you see the bug 
+that was introduced? 
+
+I'm a writer
+Keeping versions seems rather obvious to me
+It is critical in what I do in a non-compsci capacity
+So this seems a bit silly 
+
+Viewing the diff enabled me
+To pinpoint the general area 
+Where the different versions were found
+Thus ensuring that if I looked through the area
+And did not see the difference
+I needed to look through it again
+Because it was for sure there
+It provides boundaries for where 
+The error can be found
+Giving limits to where one must look
+And it provides the certainty
+That there is indeed a difference
+Within those limits 
+Therefore it is useful
+
+Instead of finding a needle in a haystack
+It hands us a specific handful of hay
+And says the needle is in here
+In this small handful
+Rather than the entire haystack
+
+***********
+
+How could having easy access 
+To the entire history of a file
+Make you a more efficient programmer
+In the long term?
+
+It means you can undo something easily when you break your program
+
+It means you can figure out what you were thinking 
+And why you did something
+If for some reason you forgot to properly document your code
+
+It means someone else, working on your code
+Can see what you were thinking or how you did something
+Thus helping them avoid breaking your code 
+Or having your code break their code
+
+In general, it is a record of what was done, what happened
+And if you note it, why
+
+**********
+
+What do you think are the pros and cons
+Of manually choosing when to create a commit
+Like you do in Git, vs 
+Having version automatically saved
+Like Google docs does?
+
+Pro (Git) - The machine is not doing your thinking for you
+You are in control 
+Pro - You know the logic of when a version was saved
+because you chose to make it that way for a reason you know
+
+Con - You might forget to save changes and then lose work
+Con - You might forget to save changes and now you have a giant commit
+
+**********
+
+Why do you think some verison control systems
+Like Git, allow saving multiple files
+In one commit, while others, Like Google
+Treat each file separately?
+
+Because they are designed for different purposes and for
+Different end users.
+
+**********
+
+How can you use the commands git log and git diff to view the history of files?
+
+To use git log, navigate to the directory your file is in and type "git log". Remember that you need to scroll up and down with arrows on the keyboard to see more of the information, not the scroll bar.
+
+To use git dif, get the commit ids of the two versions you wish to compare and then type "git dif firstid second id".
+
+**********
+
+How might using version control make you more confident to make changes that could break something?
+
+It gives me confidence that if I make sufficient commits at appropriate intervals, I'll be able to fix anything I break.  This is, however, dependent upon making good commits.
+
+**********
+
+How do you want to use Git?
+
+I want to eventually use it to do the JavaScript basics course.  That's the only reason I'm taking this course.  That course told me to.
