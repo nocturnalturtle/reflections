@@ -1,0 +1,17 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Two main reasons: backups and sharing.  I'm a writer.  I never keep 
+the only copy of my novel on the machine I'm working on.  Something 
+could happen to it. I always save in multiple places, usually at least
+one cloud repository.  That way if something happens to my machine or
+the files on it, the whole novel won't be lost or destroyed.  While
+someone wanting to sell their novel wouldn't want to post it online 
+(because then no publisher would touch it due to it already being
+on the Internet), having feedback is a very important thing and if the 
+publishing industry weren't the way it is now, it would be lovely
+to be able to crowdsource a story, doing open source fiction for everyone
+to contribute to, constantly making the narrative better.  I'd really like
+to do that with at least one piece of fiction, perhaps an interactive one
+so that anyone who liked could contribute to making the story better.  The
+results would be fantastic.  They'd be unsellable, but awesome.
+
